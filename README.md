@@ -1,7 +1,8 @@
 # MyProject
 **About This Page**
 ===
-I just learn how to build website and still be a beginner. So, if you can tell me for my fault or else that makes a good stuff then i feel very thanksfull..
+
+> I just learn how to build website and still be a beginner. So, if you can tell me for my fault or else that makes a good stuff then i feel very thanksfull..
 
 
 Text attributes _italic_, 
@@ -34,8 +35,9 @@ An [example](http://example.com).
 
 Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 
-**About Me:**
 ---
+
+### About Me:
 
 Facebook: Nur Qalik
 
