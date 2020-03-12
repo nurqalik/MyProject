@@ -1,6 +1,6 @@
 # MyProject
 **About This Page**
-===================
+===
 I just learn how to build website and still be a beginner. So, if you can tell me for my fault or else that makes a good stuff then i feel very thanksfull..
 
 
@@ -35,7 +35,8 @@ An [example](http://example.com).
 Inline <abbr title="Hypertext Markup Language">HTML</abbr> is supported.
 
 **About Me:**
--------------
+---
 
 Facebook: Nur Qalik
+
 Instagram: @qaliksulistyo
